@@ -1,2 +1,2 @@
 # prova2-Lp2
-segunda prova de LP2
+resolução da segunda prova de LP2 - 19.2

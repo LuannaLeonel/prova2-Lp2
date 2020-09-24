@@ -1,3 +1,8 @@
+/**
+*Representação de um Validador.
+*Verifica se a entrada é valida, evitando exceções.
+**/
+
 public class Validador {
 
     public static void valida(String parametro){
